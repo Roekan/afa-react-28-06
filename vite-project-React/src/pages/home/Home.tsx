@@ -1,13 +1,9 @@
-import Header from "../../commons/header/Header"
-import Footer from "../../commons/footer/Footer"
-
+import './Home.css'
 const Home = () =>{
 
     return (
         <>
-        <Header></Header>
         <h1>Home</h1>
-        <Footer></Footer>
         </>
     )
 }

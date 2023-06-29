@@ -1,13 +1,9 @@
-import Header from "../../commons/header/Header"
-import Footer from "../../commons/footer/Footer"
-
+import './Contacto.css'
 const Contacto = () =>{
     
     return (
         <>
-        <Header></Header>
         <h1>Contacto</h1>
-        <Footer></Footer>
         </>
     )
 }
